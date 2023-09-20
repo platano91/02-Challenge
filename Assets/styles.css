@@ -74,6 +74,12 @@ h2{
     color: white;
 }
 
+@media (max-width: 800px){
+    h2{
+        font-size: 2.5rem;
+    }
+}
+
 .project-img{
     height: calc(100% - 4.8rem);
     width: 100%;
@@ -115,3 +121,4 @@ h2{
     text-align: center;
     font-size: 1.7rem;
 }
+
