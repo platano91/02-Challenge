@@ -28,6 +28,9 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 ```
 
+## Deployed Link
+https://platano91.github.io/02-Challenge/
+
 ## Mock-Up
 
 The following animation shows the web application's appearance and functionality:
